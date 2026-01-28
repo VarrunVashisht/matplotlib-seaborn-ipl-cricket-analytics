@@ -1,4 +1,4 @@
-# 🏏 IPL Data Analysis using Matplotlib & Seaborn
+# 🏏 IPL Data Analysis using Matplotlib & Seaborn (Python)
 
 ## 📌 Project Overview
 
@@ -90,5 +90,3 @@ It is ideal for beginners learning **EDA, Matplotlib, and Seaborn**, and serves 
 ---
 
 ### ⭐Author: Varrun Vashisht
-
-Just tell me 👍
